@@ -1,0 +1,5 @@
+x = 5
+y = 3.14
+name = "Jagan"
+is_active = True
+print(x, y, name, is_active)
