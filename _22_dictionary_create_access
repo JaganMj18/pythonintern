@@ -1,0 +1,2 @@
+person = {"name": "Jagan", "age": 22, "city": "Tirupati"}
+print(person["name"])
