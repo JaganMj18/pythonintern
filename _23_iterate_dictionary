@@ -1,0 +1,3 @@
+person = {"name": "Jagan", "age": 22, "city": "Tirupati"}
+for key, value in person.items():
+    print(key, ":", value)
