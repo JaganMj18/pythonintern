@@ -1,0 +1,3 @@
+print("Union:", a.union(b))
+print("Intersection:", a.intersection(b))
+print("Difference (a - b):", a.difference(b))
