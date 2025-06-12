@@ -1,2 +1,3 @@
-string = "hello world"
-print(string.count("l"))
+string = "hello Jagan"
+char = 'l'
+print(f"The character '{char}' occurred {string.count(char)} times in the given sentence.")
