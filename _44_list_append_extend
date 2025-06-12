@@ -1,0 +1,7 @@
+a = [1, 2]
+a.append([3, 4])
+print("Length after append:", len(a))  # Output: 3
+
+b = [1, 2]
+b.extend([3, 4])
+print("Length after extend:", len(b))  # Output: 4
