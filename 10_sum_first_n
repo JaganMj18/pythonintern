@@ -1,5 +1,5 @@
 n = 10
 sum_val = 0
 for i in range(1, n+1):
-    sum_val += i
+    sum_val = sum_val + i
 print("Sum:", sum_val)
