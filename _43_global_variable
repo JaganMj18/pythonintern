@@ -1,0 +1,10 @@
+x = 10
+
+def update_value():
+    global x
+    print("Before update:", x)
+    x = 5
+    print("Inside function:", x)
+
+update_value()
+print("After function call:", x)
